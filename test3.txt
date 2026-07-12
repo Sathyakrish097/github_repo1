@@ -1,1 +1,2 @@
-Created test3.txt for testing purpose
+Created test3.txt for testing purpose.
+Now I modified this file.
